@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import Header from "./components/villages/neighborhoods/Header.js";
-import SectionA from "./components/villages/neighborhoods/Section A.js";
-import SectionB from "./components/villages/neighborhoods/Section B.js";
-import SectionC from "./components/villages/neighborhoods/Section C.js";
-import Footer from "./components/villages/neighborhoods/Footer.js";
+import Header from "./neighborhoods/Header.js";
+import SectionA from "./neighborhoods/Section A.js";
+import SectionB from "./neighborhoods/Section B.js";
+import SectionC from "./neighborhoods/Section C.js";
+import Footer from "./neighborhoods/Footer.js";
 
 
 

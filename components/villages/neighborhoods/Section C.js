@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from 'react-dom';
 import {Container, Row, Col} from 'react-grid-system';
-import Laptop from "./components/villages/neighborhoods/blocks/Call To Action.js"
+import Laptop from "./blocks/Call To Action.js";
 
 class SectionC extends React.Component{
     render(){

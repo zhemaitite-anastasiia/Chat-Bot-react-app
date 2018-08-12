@@ -7,9 +7,7 @@ import LandingPage from "./components/villages/Landing Page.js";
 class App extends React.Component {
     render(){
         return(
-           <LandingPage/>
-
-                        
+           <LandingPage/>             
         )
     }
 }
